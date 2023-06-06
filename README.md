@@ -1,4 +1,4 @@
-# Learn-Smasher-Internship-task-2
+# Learn-Smasher-Internship-task-1
 # Login Form with Form Validation
 
 This is a simple login form built with HTML, CSS, and JavaScript.
