@@ -1,8 +1,9 @@
 # Learn-Smasher-Internship-task-1
 # Login Form with Form Validation
 
-This is a simple login form built with HTML, CSS, and JavaScript.
-The form includes form validation to ensure that the user enters valid input before submitting the form.
+This is a simple login form built with HTML, CSS, and JavaScript.<br>
+The form includes form validation to ensure that the user enters valid input before submitting the form.<br>
+It was developed as an internship task to showcase my skills in  web development.
 
 ## Getting Started
 
@@ -22,9 +23,15 @@ If the user submits the form without entering valid input, error messages will b
 
 ## Technologies Used
 
-- HTML: Used to create the structure of the login form.
-- CSS: Used for styling the form and error messages.
-- JavaScript: Used for form validation and handling form submission.
+- HTML
+- CSS
+- JavaScript
+
+
 
 ## you can check full tutorial on :
 https://youtu.be/PzitklDcsMc
+
+
+## Acknowledgments
+This project was developed as an internship task for [Learn Smasher - Web development Intern].
