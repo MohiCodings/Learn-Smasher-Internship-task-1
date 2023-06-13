@@ -26,9 +26,5 @@ If the user submits the form without entering valid input, error messages will b
 - CSS: Used for styling the form and error messages.
 - JavaScript: Used for form validation and handling form submission.
 
-## File Structure
-The repository includes the following files:
-
-- `index.html`: The HTML file that contains the login form and JavaScript code.
-- `styles.css`: The CSS file for styling the form.
-- `script.js`: The JavaScript file for form validation and submission.
+## you can check full tutorial on :
+https://youtu.be/gmyMvXwkX2M
